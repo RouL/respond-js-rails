@@ -1,4 +1,4 @@
-html5shiv-js-rails
+respond-js-rails
 ==================
 
 This gem adds Respond.js to your rails assets.
